@@ -1,0 +1,21 @@
+Various sources of information including grt123, julian de wit, the nodulex system, and kaggle kernels were used in developing my algorithm. I have their contributions to the developed code stated below:
+
+grt123-- the unet architecture (modified for 3D)
+julian de wit-- The 3D Vgg-like network architecture and anomalous tissue detector (used in my ensemble) were components of his solutions. However, they were modified in my algorithm. 
+nodulex-- the use of morphological features in a radiomics approach
+kaggle kernels-- preprocessing techniques
+
+I would like to thank these sources for aiding me in the development of the system; their open-source solutions granted me inspiration and references to solve this challenging problem.
+
+
+I have provided links to information below:
+grt123-- https://arxiv.org/abs/1711.08324
+julian de wit-- http://juliandewit.github.io/kaggle-ndsb2017/ 
+nodulex-- https://www.nature.com/articles/s41598-018-27569-w
+kaggle kernels-- https://www.kaggle.com/gzuidhof/full-preprocessing-tutorial
+
+
+Thank you!
+
+
+
